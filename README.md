@@ -159,25 +159,13 @@ If you use this code, please cite:
   url       = {https://doi.org/10.1201/9781003498094-9}
 }
 ```
-
----
-
-## Related Work
-
-This chapter is part of a broader research programme on intelligent systems at VIT Vellore:
-
-- [**QPPONet-BMS**](https://github.com/KRYSTALM7/QPPONet-BMS) — Hybrid DQN-PPO RL agent for EV battery management. *Scientific Reports, Nature Portfolio, 2026.*
-- [**BatteryHealthNet**](https://github.com/KRYSTALM7/BatteryHealthNet) — SOH estimation, RUL forecasting, thermal anomaly detection. *ICSPER 2025.*
-
----
-
 ## Authors
 
 **MV Sujan Kumar** — [sujankumar7702@gmail.com](mailto:sujankumar7702@gmail.com) | [GitHub @KRYSTALM7](https://github.com/KRYSTALM7)
 
 **Ganesh Khekare** — [ganesh.khekare@vit.ac.in](mailto:ganesh.khekare@vit.ac.in)
 
-**Anurup Sankriti** — Vellore Institute of Technology
+**Anurup Sankriti** — [anurupsankriti101@gmail.com](mailto:anurupsankriti101@gmail.com) | [GitHub @Anurup-Sankriti](https://github.com/Anurup-Sankriti)
 
 ---
 
