@@ -165,7 +165,7 @@ If you use this code, please cite:
 
 **Ganesh Khekare** — [ganesh.khekare@vit.ac.in](mailto:ganesh.khekare@vit.ac.in)
 
-**Anurup Sankriti** — [anurupsankriti101@gmail.com](mailto:anurupsankriti101@gmail.com) | [GitHub @Anurup-Sankriti](https://github.com/Anurup-Sankriti)
+**Anurup Sankriti** — [anurup1010@gmail.com](mailto:anurup1010@gmail.com) | [GitHub @Anurup-Sankriti](https://github.com/Anurup-Sankriti)
 
 ---
 
