@@ -1,0 +1,54 @@
+FakeNewsDetector-LSTM-XGBoost Academic Use License
+Copyright (c) 2024 MV Sujan Kumar, Ganesh Khekare, Anurup Sankriti
+Vellore Institute of Technology, Vellore, India
+
+TERMS AND CONDITIONS
+
+1. PERMITTED USE
+   Permission is granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"),
+   to use, copy, modify, and build upon the Software for academic,
+   research, and educational purposes only, subject to the conditions below.
+
+2. MANDATORY CITATION
+   Any academic work, publication, preprint, thesis, report, presentation,
+   or software that uses, adapts, reproduces, or builds upon this Software
+   or the methods described herein MUST cite the following:
+
+      MV Sujan Kumar, Ganesh Khekare, Anurup Sankriti,
+      "Enhancing Knowledge Management Integrity through Fake News Detection:
+       A Hybrid LSTM-XGBoost Approach for Cybersecurity,"
+      In: Handbook of Research on Cybersecurity Issues and Challenges
+          for Business and FinTech Applications,
+      IGI Global / CRC Press, 2024.
+      DOI: https://doi.org/10.1201/9781003498094-9
+
+   The citation must appear in the references section of any resulting
+   publication or documentation. Failure to cite constitutes a violation
+   of this license.
+
+3. PROHIBITED USES
+   The following uses are explicitly prohibited without prior written
+   permission from the authors:
+
+   a) Commercial use — including incorporation into commercial products,
+      services, or software sold or licensed for profit.
+
+   b) Redistribution as a standalone product or library without full
+      attribution to the original authors.
+
+4. ATTRIBUTION
+   All copies, forks, or derivative works must retain this license file,
+   the original copyright notice, and a reference to:
+   https://doi.org/10.1201/9781003498094-9
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+   THE AUTHORS SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE
+   OF THIS SOFTWARE.
+
+6. CONTACT
+   For commercial licensing or permissions beyond this license:
+
+   MV Sujan Kumar  — sujankumar7702@gmail.com
+   Ganesh Khekare  — ganesh.khekare@vit.ac.in
